@@ -22,8 +22,6 @@ ending.style.opacity = 0;
 addEventListener('click', () => {
 	if (prompt.style.opacity == 1) {
 		start();
-	} else {
-		ost.pause();
 	}
 });
 
