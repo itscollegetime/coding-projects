@@ -1,0 +1,59 @@
+<head>
+    <title>Blitz Strats</title>
+    <link rel="icon" href="./images/Logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./shared.css">
+    <link rel="stylesheet" type="text/css" href="./spot.css">
+    <script type="text/javascript" src="./script.js" defer></script>
+</head>
+<body>
+    <div id="header">
+        <a href="./" id="strats">
+            <img src="./images/Logo.png" id="logo">
+            Blitz Strats
+        </a>
+        <div id="buffer"></div>
+        <a href="./" id="home" class="nav">Home</a>
+        <a href="./basic" id="basic" class="nav">Start Strategizing</a>
+        <a href="" id="spot" class="nav">Don't be seen</a>
+        <a href="./hit" id="hit" class="nav">Don't be hit</a>
+        <a href="./pen" id="pen" class="nav">Don't be penetrated</a>
+    </div>
+    <div id="overlay"></div>
+    <div id="button">
+        <a onclick="spot()" class="btn" id="mainBtn">Spotting</a>
+        <a onclick="pos()" class="btn">Positioning</a>
+    </div>
+    <h1 id="title">Don't be seen</h1>
+    <h1 id="sub">Spotting & Positioning</h1>
+    <div id="background"></div>
+    <h1 id="spottingTitle">Spotting</h1>
+    <div id="spotting">
+        <img src="./images/Bush_2.png" id="img">
+        <p id="abtSpotting" class="paragraph">Spotting is a key mechanic of Blitz and remaining concealed while spotting enemies will give you a major advantage. 
+
+        <br><br>Rather than actually seeing the enemies, they will be spotted automatically when they are in a specific range of you and there is a direct line of sight. 
+
+        <br><br>A yellow lightbulb will appear above your tank when you are spotted after 3 seconds, and you will be hidden again after 10 seconds if no enemy is in range and have a line of sight.</p>
+    </div>
+    <div id="camou">
+        <img src="./images/Cover_2.png" id="img">
+        <p id="abtCamou" class="paragraph">Each vehicle in Blitz has a different Camouflage Rating and it also changes depending on what the vehicle is doing. The vehicle is the most stealth rating decreases in order of the following actions of Staying staionary, Moving, and Shooting.
+
+        <br><br>Holding off shots for the appropriate time and backing into cover immediately after shooting will prevent unneccesary bleeding of hitpoints. Equiping camouflages in the hangar will also increase you stealth by 3%.</p>
+    </div>
+    <h1 id="posTitle">Positioning</h1>
+    <div id="pos">
+        <img src="./images/Bush_3.png" id="img">
+        <p id="abtPos" class="paragraph">Utalizing map features is also key in preventing being spotted in Blitz. Bushes will increase your camouflage rating by a significant amount and you will never be spotted if the enemy is also hiding behind a bush. 
+
+        <br><br>Poking a bush can let you get shots off before the enemy even spots what shot them (more on poking in Don't be hit). Rocks and hills or other obstructions can also prevent you from being spotted. Without a line of sight, tanks will never be spotted no matter how close they are to each other.</p>
+    </div>
+    <div id="transition">
+        <p id="transitionParagraph" class="paragraph">Although these tactics can hide you from the enemy in a lot of situations, eventually being spotted will be inevitable as the battle goes on. Knowing what to do after being spotted is also key in surviving an engagement.</p>
+        <a href="./hit" id="hitBtn">Don't be hit</a>
+    </div>
+    <div id="footer">© Bruce Liu</div>
+</body>
