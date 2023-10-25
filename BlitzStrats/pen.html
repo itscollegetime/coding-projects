@@ -1,0 +1,90 @@
+<head>
+    <title>Blitz Strats</title>
+    <link rel="icon" href="./images/Logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./shared.css">
+    <link rel="stylesheet" type="text/css" href="./pen.css">
+    <script type="text/javascript" src="./script.js" defer></script>
+</head>
+<body>
+    <div id="header">
+        <a href="./" id="strats">
+            <img src="./images/Logo.png" id="logo">
+            Blitz Strats
+        </a>
+        <div id="buffer"></div>
+        <a href="./" id="home" class="nav">Home</a>
+        <a href="./basic" id="basic" class="nav">Start Strategizing</a>
+        <a href="./spot" id="spot" class="nav">Don't be seen</a>
+        <a href="./hit" id="hit" class="nav">Don't be hit</a>
+        <a href="" id="pen" class="nav">Don't be penetrated</a>
+    </div>
+    <div id="overlay"></div>
+    <div id="button">
+        <a onclick="shell()" class="btn" id="mainBtn">Shell Types</a>
+        <a onclick="armor()" class="btn">Armor Handling</a>
+    </div>
+    <h1 id="title">Don't be penetrated</h1>
+    <h1 id="sub">Defensive Measures</h1>
+    <div id="background"></div>
+    <h1 id="shellTitle">Shell Types</h1>
+    <div id="penetrator">
+        <img src="./images/Pen_Indicator.png" id="img">
+        <p id="abtPenetrator" class="paragraph">
+        <mark>-PENETRATOR SHELLS</mark><br>
+        AP, APCR, and HEAT are penetrators that deal damage only if the shell penetrates a vehicle. In Blitz, this is indicated by the red overlay while in scope mode. 
+        <br><br>The more red an area is, the lower the chance of penetrating. Common weak spots on tanks are the turret cheeks, lower plate, and generally the side and rear of vehicles.</p>
+    </div>
+    <div id="penetrators">
+        <img src="./images/Flanking.png" id="img">
+        <p id="abtPenetrators" class="paragraph">
+        <mark>AP</mark> is the standard shell for most tanks in low and mid tiers, it has great normalization meaning it does well against angeled armor, although any angle above 70 degress will result in an auto ricochet bouncing the shell off and usually doing no damage. 
+        <br><br>
+        <mark>APCR</mark> is the premium ammo in lower tiers and standard in higher tiers, it has greater shell velocity than AP and usually greater penetration but worse shell normalization and it's penetrating capabilities drastically reduce with distance. 
+        <br><br>
+        <mark>HEAT</mark> shells are premium ammo for higher tier tanks. They have extremely good penetration that stays constant at all ranges, but also ignite on contact meaning it will have similar downsides to HE shells (more on HE below).</p>
+    </div>
+    <div id="explosive">
+        <img src="./images/HE_Indicator.png" id="img">
+        <p id="abtExplosive" class="paragraph">
+        <mark>-EXPLOSIVE SHELLS</mark><br>
+        HE and HESH are explosive shells that deal splash damage, meaning the shells just have to explode within the vicinity of penetrable armor. In Blitz, this is indicated by red and yellow overlay in scope mode. 
+        <br><br>Red areas mean the shells don't have enough explosive power to do damage to the tank. Yellow areas mean the shells will not penetrate, but will do splash damage. 
+        <br><br>Generally, HE shells have drastically lower penetration than penetrators and if there are no transparent spots that HE shells can penetrate, firing explosive shells will only result in lower damage.</p>
+    </div>
+    <div id="explosives">
+        <img src="./images/Gameplay_5.png" id="img">
+        <p id="abtExplosives" class="paragraph">
+        <mark>HE</mark> is extremely different from AP and APCR. Instead of just penetrating a vehicle, HE shells have explosives packed within them, meaning if the shell penetrates a lot more damage will be dealt. However, HE ammo explodes on contact and can be stopped by obstacles such as fences or walls and can be easily defeated by spaced armor on some vehicles. 
+        <br><br>
+        <mark>HESH</mark> ammo are specialized explosives shells available for only British high tier vehicles. They still have less penetration than penetrator shells, but have significantly more than conventional explosive shells.</p>
+    </div>
+    <h1 id="armorTitle">Armor Handling</h1>
+    <div id="angling">
+        <img src="./images/Angle_2.png" id="img">
+        <p id="abtAngling" class="paragraph">Typically, tanks have the strongest armor in the front, weaker on the sides, and the weakest in the rear. 
+        <br><br>When facing enemy tanks, always turn your vehicle towards them and angle slightly to either left or right. This maximizes the effective armor thickness of your whole vehicle because the steeper an armor plate is, the harder it is to penetrate. </p>
+    </div>
+    <div id="hulldown">
+        <img src="./images/Hull-down_4.png" id="img">
+        <p id="abtHulldown" class="paragraph">To position yourself in a hull-down situation, find hills or ridgelines to hide behind and slowly drive forwards stopping when you have a clear shot over the terrain. 
+        <br><br>This only exposes your turret and angles the armor slightly upwards increasing its effective thickness. Combined with poking, this strategy can be extremely effective with a tank that has great turret armor and barrel depression.</p>
+    </div>
+    <div id="sidescraping">
+        <img src="./images/Sidescraping_1.png" id="img">
+        <p id="abtSidescraping" class="paragraph">To side scrap, find a obstacle large enough to hide your tank and drive behind it. Then, turn slightly away from the clearing and start backing up. 
+        <br><br>Stop when you have a clear shot and make sure the front of your tank is still behind the obstacle. This places your tank at an extremely steep angle for the enemy and allows you to get shots of without being fired back at.</p>
+    </div>
+    <div id="wiggling">
+        <img src="./images/Side_1.png" id="img">
+        <p id="abtWiggling" class="paragraph">Although certain parts of tanks are strong, there are still many weak spots such as the lower plate, turret cheeks, and hatches, sides, and rear. 
+        <br><br>To make these spots a harder target for the enemy, simply wiggle your tank back and forth and turn the turret randomly.</p>
+    </div>
+    <div id="transition">
+        <p id="transitionParagraph" class="paragraph">Hopefully by exploring the survivability onion, you learned more about Blitz and tank combat in general. Combined with enough practice, winning battles will be significantly easier and a lot less frustrating!</p>
+        <a href="./" id="homeBtn">Home</a>
+    </div>
+    <div id="footer">© Bruce Liu</div>
+</body>

@@ -1,0 +1,81 @@
+<head>
+    <title>Blitz Strats</title>
+    <link rel="icon" href="./images/Logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="./shared.css">
+    <link rel="stylesheet" type="text/css" href="./basic.css">
+    <script type="text/javascript" src="./script.js" defer></script>
+</head>
+<body>
+    <div id="header">
+        <a href="./" id="strats">
+            <img src="./images/Logo.png" id="logo">
+            Blitz Strats
+        </a>
+        <div id="buffer"></div>
+        <a href="./" id="home" class="nav">Home</a>
+        <a href="" id="basic" class="nav">Start Strategizing</a>
+        <a href="./spot" id="spot" class="nav">Don't be seen</a>
+        <a href="./hit" id="hit" class="nav">Don't be hit</a>
+        <a href="./pen" id="pen" class="nav">Don't be penetrated</a>
+    </div>
+    <div id="overlay"></div>
+    <h1 id="title">Basic Knowledge</h1>
+    <h1 id="sub">Tank Classifications & Roles</h1>
+    <div id="button">
+        <a onclick="onion()" class="btn" id="mainBtn">Survivability Onion</a>
+        <a onclick="tanks()" class="btn">Tank Classifications</a>
+    </div>
+    <div id="background"></div>
+    <h1 id="onionTitle">Survivability Onion</h1>
+    <div id="onion">
+        <img src="./images/Onion.png" id="img">
+        <p id="abtOnion" class="paragraph">The Tank Survivability Onion shows the different circumstances considered by real military tank crews to help them survive an engagement.
+
+        <br><br>-Don't be there: With good positioning, engagements can be avoided completely.
+
+        <br><br>-Don't be seen: With good concealment, enemies won't acquire your vehicle and can't open fire.
+
+        <br><br>-Don't be hit: Without being hit, the damage inflicted on your vehicle is limited.
+
+        <br><br>-Don't be penetrated: Without being penetrated, crew and module damages are also limited.
+
+        <br><br>In Blitz, all of these parametesrs are similated with different levels of realism.</p>
+    </div>
+    <h1 id="classTitle">Tank Classifications</h1>
+    <div id="lights" class="tankClass">
+        <img src="./images/Lights.png" id="lightImg" class="img">
+        <p id="abtLights" class="paragraph">
+        <mark>-LIGHT TANKS</mark><br>Light tanks are small and mobile. They have good spotting ranges (more on spotting range in Don't be seen) and relatively quick reloads. Light tanks are good at getting into position fast and spotting enemy tanks before they can get into cover. 
+
+        <br><br>Your role in a light tank is to spot enemies for your team and get into cover letting the heavy tanks take the shots. Light tanks are also great at flanking because of their fast speeds. When your team is at a halt unable to push through enemy lines, flank behind the enemy and engange them from behind. When the enemy turns around to face you, drive back into cover and let your team take advantage of your manuever.</p>
+    </div>
+    <div id="mediums" class="tankClass">
+        <img src="./images/Mediums.png" id="mediumImg" class="img">
+        <p id="abtMediums" class="paragraph">
+        <mark>-MEDIUM TANKS</mark><br>Medium tanks also have great mobility. They have descent spotting range and can also get into position quickly. 
+
+        <br><br>The main role of medium tanks are to support the light and heavy tanks. After the enemies are spotted by the light tanks, get to the sides of the enemy while the heavy tanks draw the fire. Distract the enemy and make them turn towards you, exposing their sides to the rest of the team. Mediums also have some degree of armor protection, allowing you to work ridgelines and take advantage of terrain irregularities (more on engagement tactis in Don't be hit).</p>
+    </div>
+    <div id="heavies" class="tankClass">
+        <img src="./images/Heavies.png" id="heavyImg" class="img">
+        <p id="abtHeavies" class="paragraph">
+        <mark>-HEAVY TANKS</mark><br>Heavy tanks have excellent armor protection. They have reletaively worse mobility, but the better armor and fire power makes up for it. 
+
+        <br><br>Your role as a heavy tank is to take shots for the team and utilize the large hitpoint pools carried by most heavies (more on defensive tactics in Don't be penetrated). Heavy tanks are very team dependent and fall apart quickly when flanked by mobile lights and mediums. Stick to the rest of the heavies and follow the mobile teammates when possible. </p>
+    </div>
+    <div id="tds" class="tankClass">
+        <img src="./images/Tank_Destroyer_2.png" id="tdImg" class="img">
+        <p id="abgTds" class="paragraph">
+        <mark>-TANK DESTROYERS</mark><br>Tank Destroyers are the equivalent of snipers in tank combat. They have massive fire power and can harshly punish enemies for making mistakes. Although some tank destroyers are also heavily armored, most aren't. 
+
+        <br><br>Your role in the team is to support and cover the rest of the team from a far advantage point without taking shots (more on concealment in Don't be seen). Because of their great fire power, they also have a slow reload, making them extremely vulnerable to flanking attacks. Stick to the team when they push and don't get left behind.</p>
+    </div>
+    <div id="transition">
+        <p id="transitionParagraph" class="paragraph">Knowing what each tank type specializes in will help you support the team and win more battles, but understanding how to properly execute their roles will require more knowledge about map features and concealment.</p>
+        <a href="./spot" id="spotBtn">Don't be seen</a>
+    </div>
+    <div id="footer">© Bruce Liu</div>
+</body>

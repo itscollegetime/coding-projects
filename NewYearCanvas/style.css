@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+	margin: 0;
+}
+
+canvas {
+	background-color: black;
+	position: absolute;
+}
+
+div {
+	position: relative;
+}
+
+label {
+	font-family: 'Poppins', sans-serif;
+	position: absolute;
+	font-size: 50;
+	color: white;
+	user-select: none;
+	left: 20;
+}
+
+button:hover {
+	background-color: aquamarine;
+	color: darkorange;
+}
