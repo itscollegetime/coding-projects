@@ -1,6 +1,6 @@
 # Coding Projects
 
-Here are most of the projects I did that mainly involved coding. A lot of the projects here were made to solve specific problems I faced, while others are just things that I found interesting and wanted to try out myself.
+Here are most of the projects I did that mainly involved coding. A lot of the projects here are just things that I found interesting and wanted to try out myself, while others were made to solve specific problems I faced.
 
 Many of the projects here are connected to one another and to projects in some of my other repositories. Some projects here also have interactive demos so you can play with them yourself. The related links will all be included.
 
@@ -62,7 +62,7 @@ You can also watch a recorded demo on YouTube at: [youtube.com/watch?v=cMOdi7Ypv
 
 ## Elastic Collision Simulator
 
-As you can probably tell alreayd, I have a lot of projects involving particles. For this project, I decided to make the particles behave more realisticly and try to simulate collision physics between them. Particle colors represent kinetic energy with red being the highest and blue being the lowest.
+As you can probably tell already, I have a lot of projects involving particles. For this project, I decided to make the particles behave more realisticly and try to simulate collision physics between them. Particle colors represent kinetic energy with red being the highest and blue being the lowest.
 
 The kinetic energy formula and conservation of energy were applied under the assumption of lostless energy transfer between collisions and used to calculate resulting velocities of each particle.
 
@@ -97,4 +97,69 @@ A Perlin noise grid was randomly generated and that was used to determine the ve
 You can watch a full video demo on YouTube at: [youtube.com/watch?v=3mIsK_C0E6A](https://www.youtube.com/watch?v=3mIsK_C0E6A)
 
 |[<img src="https://media.giphy.com/media/kMUPSJvqY78FTASPWH/giphy.gif">](https://www.youtube.com/watch?v=3mIsK_C0E6A)|[<img src="https://media.giphy.com/media/gHOQzE2f39OpyGRcKa/giphy.gif">](https://www.youtube.com/watch?v=3mIsK_C0E6A)|
+|-|-|
+
+## Particle Effects
+
+Here are some other projects I've done involving particles.
+
+### Parallax
+
+By moving particles with different sizes at different speeds, an illusion of parallax is created.
+
+You can try Parallax at: [itscollegetime.github.io/coding-projects/Parallax](https://itscollegetime.github.io/coding-projects/Parallax/)
+
+|[<img src="https://media.giphy.com/media/tWr6S6C3aeU5hvioul/giphy.gif">](https://itscollegetime.github.io/coding-projects/Parallax/)|[<img src="https://media.giphy.com/media/hnmb9Nlzjn2GcWkZ0K/giphy.gif">](https://itscollegetime.github.io/coding-projects/Parallax/)|
+|-|-|
+
+### Force Fields
+
+By creating points of attraction or repulsion on a particle grid and applying transformations to surrounding particles based on distance, a force field effect can be created.
+
+|<img src="https://media.giphy.com/media/wDRWtHzNBJkXd8xOzA/giphy.gif">|<img src="https://media.giphy.com/media/KQBoqebvxHkiZK9Axj/giphy.gif">|
+|-|-|
+
+## Fractal Sketching
+
+Recursively creating fractals is a common computer science practice activity, and I decided to try it out myself. Here are some of the most famous fractals including the Dragon Cruve, Koch snowflake, and Sierpiński triangle
+
+|<img src="supp/F_00.jpg">|<img src="supp/F_03.jpg">|<img src="supp/F_02.jpg">|
+|-|-|-|
+
+## Marching Squares Contour Sketching
+
+After watching a [YouTube video by Reducible](https://www.youtube.com/watch?v=6oMZb3yP_H8) on how computers draw shapes, I decided to try it out myself. Essentially, the screen is divided into small cells. Each cell is then further divided if a coutour passes through it to achieve better resolution. Here are some common functions sketched with this method. 
+
+|<img src="supp/MS_01.jpg">|<img src="supp/MS_04.jpg">|
+|-|-|
+
+|<img src="supp/MS_03.jpg">|<img src="supp/MS_02.jpg">|<img src="supp/MS_05.jpg">|
+|-|-|-|
+
+## A* Pathfinding
+
+This project was inspired after going from middle school to high school, maybe because COVID-19 changing everything up, I had not received a map of the school and had some trouble finding where my classes were. Once I finally found a map, I wanted to try making a pathfinder that could help future students find classes easily. In my research, I tried many different search algorithms such as Depth First Search and Breadth First Search when treating each classroom as nodes. Eventually, I found the A* algorithm that was better suited for pathfinding and optimizing for shortest distance efficiently. Here is a simple program I made trying out this algorithm.
+
+You can watch a full video demo on YouTube at: [youtube.com/watch?v=XzCMTdlgqa8](https://www.youtube.com/watch?v=XzCMTdlgqa8)
+
+|[<img src="https://media.giphy.com/media/16PNgStLkCF0aAHHXD/giphy.gif">](https://www.youtube.com/watch?v=XzCMTdlgqa8)|[<img src="https://media.giphy.com/media/GVM1o9ys0FWfMJ7nGw/giphy.gif">](https://www.youtube.com/watch?v=XzCMTdlgqa8)|
+|-|-|
+
+## FX Space Runner
+
+This was a practice project made following a [tutorial by ]() when I was first learning JavaFX. 
+
+You can watch a full video demo on YouTUbe at: [youtube.com/watch?v=ldyqxdvdQDM](https://www.youtube.com/watch?v=ldyqxdvdQDM)
+
+|[<img src="https://media.giphy.com/media/Pv8qfolacok2dUhVWn/giphy.gif">](https://www.youtube.com/watch?v=ldyqxdvdQDM)|[<img src="https://media.giphy.com/media/E2oP7LHvq3E19pLcgn/giphy.gif">](https://www.youtube.com/watch?v=ldyqxdvdQDM)|
+|-|-|
+
+## AB Study Hall
+
+|<img src="supp/AB Neon Close.png">|<img src="supp/AB.png">|<img src="supp/AB Remastered Lit.png">|
+|-|-|-|
+
+## Drop Scheduler
+
+|<img src="supp/DS_01.png">|<img src="supp/DS_00.png">|
 |-|-|
