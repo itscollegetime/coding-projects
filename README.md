@@ -18,7 +18,7 @@ You can watch the show locally at: [**itscollegetime.github.io/coding-projects/C
 <br>
 You can also watch a recorded video on YouTube at: [youtube.com/watch?v=alWz4vffrAs](https://www.youtube.com/watch?v=alWz4vffrAs)
 
-|[<img src="https://media0.giphy.com/media/EHqA31Oc60kzunPJZJ/giphy.gif">](https://itscollegetime.github.io/coding-projects/ColorShow/)|[<img src="https://media0.giphy.com/media/G3wuJgm5w93hu2Iern/giphy.gif">](https://www.youtube.com/watch?v=alWz4vffrAs)|
+|[<img src="suppgifs/CCC_E.gif">](https://itscollegetime.github.io/coding-projects/ColorShow/)|[<img src="suppgifs/CCC.gif">](https://www.youtube.com/watch?v=alWz4vffrAs)|
 |-|-|
 
 Music: [Fishing Move Inc. - E3 2021 Trailer Music | MSFS 2020 Trailer Score](https://youtu.be/1VNDn7ru2lY?si=n6DZshKkYxZK65BD)
@@ -33,7 +33,7 @@ This project was really the culmination of many smaller projects. I come from Ta
 You can watch the show locally at: [**itscollegetime.github.io/coding-projects/NewYearCanvas**](https://itscollegetime.github.io/coding-projects/NewYearCanvas/)
 <br>You can also watch a recorded video on YouTube at: [youtube.com/watch?v=cn_ZovVaCFk](https://www.youtube.com/watch?v=cn_ZovVaCFk)
 
-|[<img src="https://media0.giphy.com/media/tN2JsO20goypdKMPbG/giphy.gif">](https://itscollegetime.github.io/coding-projects/NewYearCanvas/)|[<img src="https://media0.giphy.com/media/I8FRnwrNT6yCc4HdOX/giphy.gif">](https://www.youtube.com/watch?v=cn_ZovVaCFk)|
+|[<img src="suppgifs/CNYF.gif">](https://itscollegetime.github.io/coding-projects/NewYearCanvas/)|[<img src="suppgifs/CNYF_E.gif">](https://www.youtube.com/watch?v=cn_ZovVaCFk)|
 |-|-|
 
 Music: [Fishing Move Inc. - Pre Order Trailer Music | MSFS 2020 Trailer Score](https://youtu.be/1LIC685WZxI?si=ZS04sWN7ICEp3FZp)
@@ -46,7 +46,7 @@ You can try Canvas Fireworks at: [**itscollegetime.github.io/coding-projects/Can
 <br>
 You can also watch a recorded demo on YouTube: [youtube.com/watch?v=6WCUybQo0S0](https://www.youtube.com/watch?v=6WCUybQo0S0)
 
-|[<img src="https://media0.giphy.com/media/Dn1ZC12xCP9OZDvef2/giphy.gif">](https://itscollegetime.github.io/coding-projects/CanvasFireworks/)|[<img src="https://media0.giphy.com/media/7k9lTitTPiz02ig7OF/giphy.gif">](https://www.youtube.com/watch?v=6WCUybQo0S0)|
+|[<img src="suppgifs/CF.gif">](https://itscollegetime.github.io/coding-projects/CanvasFireworks/)|[<img src="suppgifs/CF_E.gif">](https://www.youtube.com/watch?v=6WCUybQo0S0)|
 |-|-|
 
 ### Canvas Shooter
@@ -57,7 +57,7 @@ You can try Canvas Shooter at: [**itscollegetime.github.io/coding-projects/Canva
 <br>
 You can also watch a recorded demo on YouTube at: [youtube.com/watch?v=cMOdi7YpvIA](https://www.youtube.com/watch?v=cMOdi7YpvIA)
 
-|[<img src="https://media0.giphy.com/media/KMc3DacbR6rW1cEGZK/giphy.gif">](https://itscollegetime.github.io/coding-projects/CanvasShooter/)|[<img src="https://media0.giphy.com/media/sihV9mnZNkeGg2hmbs/giphy.gif">](https://www.youtube.com/watch?v=cMOdi7YpvIA)|
+|[<img src="suppgifs/CS.gif">](https://itscollegetime.github.io/coding-projects/CanvasShooter/)|[<img src="suppgifs/CS_E.gif">](https://www.youtube.com/watch?v=cMOdi7YpvIA)|
 |-|-|
 
 ## Elastic Collision Simulator
@@ -70,7 +70,7 @@ You can watch full video demos on YouTube at:
 - [youtube.com/watch?v=91I6AwLHc_w](https://www.youtube.com/watch?v=91I6AwLHc_w)
 - [youtube.com/watch?v=6KYbqw02PFk](https://www.youtube.com/watch?v=6KYbqw02PFk)
 
-|[<img src="https://media0.giphy.com/media/1zaINoIokF2uKBzz0f/giphy.gif">](https://www.youtube.com/watch?v=91I6AwLHc_w)|[<img src="https://media0.giphy.com/media/FNdg1KLsHxTGjGBflJ/giphy.gif">](https://www.youtube.com/watch?v=6KYbqw02PFk)|
+|[<img src="suppgifs/ECS.gif">](https://www.youtube.com/watch?v=91I6AwLHc_w)|[<img src="suppgifs/ECS_E.gif">](https://www.youtube.com/watch?v=6KYbqw02PFk)|
 |-|-|
 
 ## Particle Playground
@@ -81,7 +81,7 @@ You can watch full video demos on YouTube at:
 - [youtube.com/watch?v=y87NSGMbfYU](https://www.youtube.com/watch?v=y87NSGMbfYU)
 - [youtube.com/watch?v=SkT9fXMkUPo](https://www.youtube.com/watch?v=SkT9fXMkUPo)
 
-|[<img src="https://media0.giphy.com/media/TyVDjtGo3vHnWRzoSg/giphy.gif">](https://www.youtube.com/watch?v=y87NSGMbfYU)|[<img src="https://media0.giphy.com/media/rQZ9Ce9FLP0bgFBW7t/giphy.gif">](https://www.youtube.com/watch?v=SkT9fXMkUPo)|
+|[<img src="suppgifs/PS_E.gif">](https://www.youtube.com/watch?v=y87NSGMbfYU)|[<img src="suppgifs/PS.gif">](https://www.youtube.com/watch?v=SkT9fXMkUPo)|
 |-|-|
 
 ## Perlin Flow Field
@@ -96,7 +96,7 @@ A Perlin noise grid was randomly generated and that was used to determine the ve
 
 You can watch a full video demo on YouTube at: [youtube.com/watch?v=3mIsK_C0E6A](https://www.youtube.com/watch?v=3mIsK_C0E6A)
 
-|[<img src="https://media0.giphy.com/media/kMUPSJvqY78FTASPWH/giphy.gif">](https://www.youtube.com/watch?v=3mIsK_C0E6A)|[<img src="https://media0.giphy.com/media/gHOQzE2f39OpyGRcKa/giphy.gif">](https://www.youtube.com/watch?v=3mIsK_C0E6A)|
+|[<img src="suppgifs/PFF.gif">](https://www.youtube.com/watch?v=3mIsK_C0E6A)|[<img src="suppgifs/PFF_E.gif">](https://www.youtube.com/watch?v=3mIsK_C0E6A)|
 |-|-|
 
 ## Particle Effects
@@ -109,14 +109,16 @@ By moving particles with different sizes at different speeds, an illusion of par
 
 You can try Parallax at: [itscollegetime.github.io/coding-projects/Parallax](https://itscollegetime.github.io/coding-projects/Parallax/)
 
-|[<img src="https://media0.giphy.com/media/tWr6S6C3aeU5hvioul/giphy.gif">](https://itscollegetime.github.io/coding-projects/Parallax/)|[<img src="https://media0.giphy.com/media/hnmb9Nlzjn2GcWkZ0K/giphy.gif">](https://itscollegetime.github.io/coding-projects/Parallax/)|
+|[<img src="suppgifs/PRLX.gif">](https://itscollegetime.github.io/coding-projects/Parallax/)|[<img src="suppgifs/PRLX_E.gif">](https://itscollegetime.github.io/coding-projects/Parallax/)|
 |-|-|
 
 ### Force Fields
 
 By creating points of attraction or repulsion on a particle grid and applying transformations to surrounding particles based on distance, a force field effect can be created.
 
-|<img src="https://media0.giphy.com/media/wDRWtHzNBJkXd8xOzA/giphy.gif">|<img src="https://media0.giphy.com/media/KQBoqebvxHkiZK9Axj/giphy.gif">|
+You can watch a full video demo on YouTube at: [youtube.com/watch?v=3JaudG5RWYI](https://www.youtube.com/watch?v=3JaudG5RWYI)
+
+|[<img src="suppgifs/CP_E.gif">](https://www.youtube.com/watch?v=3JaudG5RWYI)|[<img src="suppgifs/CP.gif">](https://www.youtube.com/watch?v=3JaudG5RWYI)|
 |-|-|
 
 ## Fractal Sketching
@@ -142,16 +144,16 @@ This project was inspired after going from middle school to high school, maybe b
 
 You can watch a full video demo on YouTube at: [youtube.com/watch?v=XzCMTdlgqa8](https://www.youtube.com/watch?v=XzCMTdlgqa8)
 
-|[<img src="https://media0.giphy.com/media/16PNgStLkCF0aAHHXD/giphy.gif">](https://www.youtube.com/watch?v=XzCMTdlgqa8)|[<img src="https://media0.giphy.com/media/GVM1o9ys0FWfMJ7nGw/giphy.gif">](https://www.youtube.com/watch?v=XzCMTdlgqa8)|
+|[<img src="suppgifs/ASP_E.gif">](https://www.youtube.com/watch?v=XzCMTdlgqa8)|[<img src="suppgifs/ASP.gif">](https://www.youtube.com/watch?v=XzCMTdlgqa8)|
 |-|-|
 
 ## FX Space Runner
 
-This was a practice project made following a [tutorial by ]() when I was first learning JavaFX. 
+This was a practice project made following a [tutorial series by takecert](https://www.youtube.com/playlist?list=PL4wcbt63yAbdtY-GOeuRjIePfUsukSJZ9) when I was first learning JavaFX. 
 
-You can watch a full video demo on YouTUbe at: [youtube.com/watch?v=ldyqxdvdQDM](https://www.youtube.com/watch?v=ldyqxdvdQDM)
+You can watch a full video demo on YouTube at: [youtube.com/watch?v=ldyqxdvdQDM](https://www.youtube.com/watch?v=ldyqxdvdQDM)
 
-|[<img src="https://media0.giphy.com/media/Pv8qfolacok2dUhVWn/giphy.gif">](https://www.youtube.com/watch?v=ldyqxdvdQDM)|[<img src="https://media0.giphy.com/media/E2oP7LHvq3E19pLcgn/giphy.gif">](https://www.youtube.com/watch?v=ldyqxdvdQDM)|
+|[<img src="suppgifs/FX_SR.gif">](https://www.youtube.com/watch?v=ldyqxdvdQDM)|[<img src="suppgifs/FX_SR_E.gif">](https://www.youtube.com/watch?v=ldyqxdvdQDM)|
 |-|-|
 
 ## AB Study Hall
