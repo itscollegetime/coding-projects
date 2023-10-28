@@ -158,10 +158,29 @@ You can watch a full video demo on YouTube at: [youtube.com/watch?v=ldyqxdvdQDM]
 
 ## AB Study Hall
 
-|<img src="supp/AB Neon Close.png">|<img src="supp/AB.png">|<img src="supp/AB Remastered Lit.png">|
-|-|-|-|
+|<img src="supp/AB Neon Close.png">|<img src="supp/AB.png">|
+|-|-|
+
+When I got into high school, I had only just moved to the U.S. for around half a year, of which most was spent at home learning remote due to COVID-19. My first year in high school started as a hybrid schedule, some days at school and some days at home. Maybe because of this more confusing learning style, the online student created discord server for our school was pretty active at the time and many people were asking academic questions. In the community server, there were only dedicated channels for each subject, and many times I would see someone ask a question and no one answering or know how to answer since the assignments were from different teachers. I decided I would try to fix this by prompting users to join specific text channels created for each class.
+
+To do this, I watched many tutorials about Discord JDA (Java Discord API) and learned to create my own discord bot. I spent a lot of time trying to perfect how the user would interact with the bot, designing discord embeds with clickable emojis that would allow users to browser existing classes, join classes, and create new classes. This interactions would happen in private direct messages from the bot to the user, and these inputs would be reflected in the server AB Study Hall. 
+
+Unfortunately, I didn't know a lot of people at that time, so the outreach of study hall wasn't great. There also just weren't enough people who had discord and were willing to join another server and go through the hassle of joining classrooms and creating classrooms. In the end, each text channel would only have around two or three people in them and not a lot of people found this helpful. I was pretty dissapointed by this, and eventually would shut the server down. 
+
+At the time, I didn't think to document my progress, and because of Discord JDA updating from version 3 to version 4, my bot is no longer functional and taking screenshots now wouldn't be possible. Despite all that, this was still the most complicated project I've done at that point and the skills I learend about programming definitely helped me better structure my code in future projects. The pictures shown at the top and below are some of the 3D renders I did for the server and for celebrating Christmas in the server.
+
+|<img src="supp/AB Remastered Lit.png">|<img src="supp/ABRHS Christmas Tree.png">|
+|-|-|
 
 ## Drop Scheduler
 
 |<img src="supp/DS_01.png">|<img src="supp/DS_00.png">|
 |-|-|
+
+After 9th grade, the usual rotating schedule of ABRHS returned, and I found it pretty confusing at first. I decided to make a program that could auto generate my schedule each day and then deliver it to me somehow each day. After discussing my idea with my dad, he thought it was a great idea and that it would help not only me but all future 9th graders just coming to the high school. In the end, I decided that I would write the program in Java and delivery the schedule through email each day.
+
+By specifying an anchor date, all future schedule rotations can be generated from that point. An external document could list all exceptions that happened such as snow days or early release days. Through my cousin, more people were notified about this and to my delight, some people really did find it very helpful. Throughout 10th and 11th grade, the received feedback such as allowing users to specify when the schedule is sent and displaying what class is dropped each day. I decided to completely rewrite and upgrade the system one last time during 12th grade.
+
+The new SchedulerV2 (picture on right) not only implemented the suggestions I received about the first version, but also added many other new features such as a Universal Lunch Schedule (there are 3 lunch times at our school, and sometimes teachers switch them up due to tests or other things), lunch menu, daily updates about relevant events happening in the near future, and Lunch/Free sharing. This feature allowed users to see if they shared lunch or free periods with other people, and to stop having to ask each other if they had the same lunch schedule all the time. 
+
+Although there are only 16 people using Drop Scheduler, I still find it incredibly rewarding that my program is able to help make a few people's life just a tiny bit better. As of writing this, SchedulerV2 is still being maintained and sending schedule emails tirelessly every school day C:
